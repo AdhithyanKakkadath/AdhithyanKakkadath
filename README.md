@@ -2,7 +2,7 @@
 - 👀 I’m interested in cricket
 - 🌱 I’m currently learning english
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on zoom whatsapp webex
+- 📫 How to reach me on zoom  webex
 
 <!---
 Adhithyan Kakkadath/Adhithyan Kakkadath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
